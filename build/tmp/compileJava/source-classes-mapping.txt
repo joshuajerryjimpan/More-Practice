@@ -1,0 +1,8 @@
+com/triplej/HelloWorld.java
+ com.triplej.HelloWorld
+com/triplej/Student.java
+ com.triplej.Student
+com/triplej/Person.java
+ com.triplej.Person
+com/triplej/StudentPrint.java
+ com.triplej.StudentPrint
