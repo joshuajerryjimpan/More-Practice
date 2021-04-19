@@ -8,3 +8,9 @@ com/triplej/student/StudentPrint.java
  com.triplej.student.StudentPrint
 com/triplej/student/StudentPrint2.java
  com.triplej.student.StudentPrint2
+com/triplej/extend/Student.java
+ com.triplej.extend.Student
+com/triplej/extend/GraduateStudent.java
+ com.triplej.extend.GraduateStudent
+com/triplej/extend/Tester.java
+ com.triplej.extend.Tester
