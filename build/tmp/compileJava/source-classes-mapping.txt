@@ -1,16 +1,42 @@
 com/triplej/predecessor/Person.java
  com.triplej.predecessor.Person
-com/triplej/student/Student.java
- com.triplej.student.Student
-com/triplej/predecessor/HelloWorld.java
- com.triplej.predecessor.HelloWorld
-com/triplej/student/StudentPrint.java
- com.triplej.student.StudentPrint
 com/triplej/student/StudentPrint2.java
  com.triplej.student.StudentPrint2
+com/triplej/predecessor/HelloWorld.java
+ com.triplej.predecessor.HelloWorld
 com/triplej/extend/Student.java
  com.triplej.extend.Student
-com/triplej/extend/GraduateStudent.java
- com.triplej.extend.GraduateStudent
+com/triplej/student/Student.java
+ com.triplej.student.Student
 com/triplej/extend/Tester.java
  com.triplej.extend.Tester
+com/triplej/cust/Customer.java
+ com.triplej.cust.Customer
+com/triplej/cust/VipCustomer.java
+ com.triplej.cust.VipCustomer
+com/triplej/extend/GraduateStudent.java
+ com.triplej.extend.GraduateStudent
+com/triplej/cust/Tester.java
+ com.triplej.cust.Tester
+com/triplej/box/Box.java
+ com.triplej.box.Box
+com/triplej/student/StudentPrint.java
+ com.triplej.student.StudentPrint
+com/triplej/box/Box1.java
+ com.triplej.box.Box1
+com/triplej/box/Tester.java
+ com.triplej.box.Tester
+com/triplej/horse/Horse.java
+ com.triplej.horse.Horse
+com/triplej/horse/Racing.java
+ com.triplej.horse.Racing
+com/triplej/horse2/Horse.java
+ com.triplej.horse2.Horse
+com/triplej/horse2/Racing.java
+ com.triplej.horse2.Racing
+com/triplej/horse3/Horse.java
+ com.triplej.horse3.Horse
+com/triplej/horse3/HorseRunnable.java
+ com.triplej.horse3.HorseRunnable
+com/triplej/horse3/Racing.java
+ com.triplej.horse3.Racing
