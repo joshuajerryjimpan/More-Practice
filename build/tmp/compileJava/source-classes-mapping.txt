@@ -1,8 +1,10 @@
-com/triplej/HelloWorld.java
- com.triplej.HelloWorld
-com/triplej/Student.java
- com.triplej.Student
-com/triplej/Person.java
- com.triplej.Person
-com/triplej/StudentPrint.java
- com.triplej.StudentPrint
+com/triplej/predecessor/Person.java
+ com.triplej.predecessor.Person
+com/triplej/student/Student.java
+ com.triplej.student.Student
+com/triplej/predecessor/HelloWorld.java
+ com.triplej.predecessor.HelloWorld
+com/triplej/student/StudentPrint.java
+ com.triplej.student.StudentPrint
+com/triplej/student/StudentPrint2.java
+ com.triplej.student.StudentPrint2
