@@ -40,3 +40,7 @@ com/triplej/horse3/HorseRunnable.java
  com.triplej.horse3.HorseRunnable
 com/triplej/horse3/Racing.java
  com.triplej.horse3.Racing
+com/triplej/homework/HomeWork.java
+ com.triplej.homework.HomeWork
+com/triplej/homework/BackGround.java
+ com.triplej.homework.BackGround
